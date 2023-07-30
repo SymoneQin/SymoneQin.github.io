@@ -11,16 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Probability and Statistics, UC San Diego, 2022
+* M.S. in Applied Statistics, Cornell University, 2023
+
+Project
+======
+* Rural Households in Africa: Semester-long Capstone Project
+* Survival Analysis of Adjuvant Chemotherapy in Stage B/C Colon Cancer Patients
+* Vinho Verde Wine
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Neusoft                Summer 2022: Data Analyst Intern Beijing, China
+  * Assisted the development team with system operation and maintenance with SAP, AliCloud, and MySQL
+  * Troubleshot and fixed data issues to ensure proper system operation
+  * Operated and performed maintenance on route optimization and sales forecasting
+  * Improved sales forecast accuracy through the use of ARIMA and regression models
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,13 +35,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Languages:
+  * English
+  * Mandarin
+  * Japanese
+* Technical Skills
+  * R
+  * Python
+  * Latex
+  * Java
+  * MySQL
+  * Excel
+  * JMP
+  * RISK
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
