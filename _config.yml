@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaomeng Qin/ Site Title"
+title                    : "Xiaomeng Qin"
 title_separator          : "-"
 name                     : &name "Xiaomeng Qin"
 description              : &description "personal description"
