@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 Rural Households in Africa: Semester-long Capstone Project
-Spring 2023
+⋅⋅⋅Spring 2023
 - Establishing a database infrastructure: Clean and organize data obtained from monthly questionnaires
 - Analyzing and representing data: Conduct a thorough analysis of household and food security trends over a
 specified period and visually represent the findings
 
 Survival Analysis of Adjuvant Chemotherapy in Stage B/C Colon Cancer Patients 
-Spring 2023
+⋅⋅⋅Spring 2023
 - Utilized statistical methods including the Kaplan-Meier curve, log-rank test, and Cox proportional hazards model to analyze the colon cancer dataset and investigate the impact of treatment, extent, and nodes on patient survival.
 - Identified that Lev+5FU treatment shows potential benefits for patients with advanced stages and extent of the disease.
 - Authored academic papers presenting our analysis, conclusions, and insights for clinicians and researchers working towards improving the prognosis and treatment of colon cancer.
 
 Vinho Verde Wine Analysis
-Fall 2022
+⋅⋅⋅Fall 2022
 - Performed data analysis using correlation analysis and preprocessing with Principal Component Analysis
 - Built predictive modeling using linear regression (Lasso and Ridge Regression) and classification methods
   (Support Vector Machine and K-Nearest Neighbor)
