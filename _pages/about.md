@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Rural Households in Africa: Semester-long Capstone Project
-...Spring 2023
+Rural Households in Africa: Semester-long Capstone Project\
+Spring 2023
 - Establishing a database infrastructure: Clean and organize data obtained from monthly questionnaires
 - Analyzing and representing data: Conduct a thorough analysis of household and food security trends over a
 specified period and visually represent the findings
